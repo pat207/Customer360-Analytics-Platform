@@ -427,12 +427,6 @@ Customer360-Analytics-Platform/
 
 ---
 
-## 15. Author
-
-**David Birru**
-
-B.Tech Biotechnology
-Indian Institute of Technology Kharagpur
 
 Skills:
 
